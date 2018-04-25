@@ -11,8 +11,7 @@ python:
 notifications:
   email:
     recipients:
-      - one@example.com
-      - other@example.com
+      - postupackl1@gcc.edu
     on_success: never # default: change
     on_failure: always # default: always
 
